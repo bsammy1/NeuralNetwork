@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NeuralNetTutorial/ViewController.swift"
+            timestampString = "526472954.25923"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NeuralNetTutorial/ViewController.swift"
+            timestampString = "526472959.396881"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NeuralNetTutorial.ViewController.viewDidLoad () -&gt; ()"
+                  moduleName = "NeuralNetTutorial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bsammy/Desktop/%D0%A3%D1%87%D0%B5%D0%B1%D0%B0/NeuralNetTutorial/NeuralNetTutorial/ViewController.swift"
+                  timestampString = "526651907.652967"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "1926">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NeuralNetTutorial.ViewController.(viewDidLoad () -&gt; ()).(closure #1)"
+                  moduleName = "NeuralNetTutorial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bsammy/Desktop/%D0%A3%D1%87%D0%B5%D0%B1%D0%B0/NeuralNetTutorial/NeuralNetTutorial/ViewController.swift"
+                  timestampString = "526651907.656191"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "15">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
